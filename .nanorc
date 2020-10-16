@@ -1,0 +1,8 @@
+set tabsize 2
+set autoindent
+include /usr/local/share/nano/nanorc.nanorc
+include /usr/local/share/nano/c.nanorc
+include /usr/local/share/nano/makefile.nanorc
+include /usr/local/share/nano/sh.nanorc
+include /usr/local/share/nano/asm.nanorc
+include /usr/local/share/nano/python.nanorc
