@@ -1,4 +1,4 @@
-set +x
+set -x
 Folder=$(pwd)
 
 cp .nanorc $HOME/.nanorc
